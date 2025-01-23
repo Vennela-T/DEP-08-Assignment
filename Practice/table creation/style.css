@@ -1,0 +1,28 @@
+html {
+    font-family: 'Times New Roman';
+  }
+  
+  table {
+    border-collapse: collapse;
+    border: 2px solid rgb(10, 1, 1);
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+  }
+  
+  td, th {
+    border: 1px solid rgb(51, 228, 81);
+    padding: 10px 10px;
+  }
+  
+  th {
+    background-color: rgb(205, 105, 105);
+  }
+  
+  td {
+    text-align: center;
+  }
+  
+ td {
+    background-color: rgb(206, 242, 159);
+  }
+  
