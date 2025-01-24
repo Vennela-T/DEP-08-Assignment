@@ -1,0 +1,21 @@
+html {
+    font-family: 'Times New Roman';
+  }
+  a:link {
+    color: orange;
+  }
+  
+  a:visited {
+    color: blue;
+  }
+  
+  
+  a:hover {
+    color: greenyellow;
+  }
+  
+  
+  a:active {
+    color: orchid;
+  }
+  
